@@ -10,7 +10,7 @@ This code mimicks one of the pages that I plan to incorporate into my final proj
 
 ***IN-PROGRESS***
 
-![alt-text](https://github.com/NyingesiePoufong/Final-Project-Demo/blob/master/final%20project%20image.png)
+![alt-text](https://github.com/NyingesiePoufong/finalprojectpractice/blob/master/final%20practice%20demo.png)
 
 ### How it's Made:
 
