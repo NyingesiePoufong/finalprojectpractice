@@ -19,10 +19,11 @@ This code mimicks one of the pages that I plan to incorporate into my final proj
 - Clone the repo
 - In termimal run 'npm install' to install node modules
 - Run 'node server.js'
-- Navigate to localhost:8000
+- Navigate to localhost:8080
 
 
 ## Usage
 
 1. Run `node server.js`
-2. Navigate to `localhost:8000`
+2. Navigate to `localhost:8080`
+
